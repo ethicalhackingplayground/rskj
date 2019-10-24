@@ -43,6 +43,7 @@ public enum ConsensusRule {
     RSKIP134("rskip134"),
     RSKIP136("rskip136"),
     RSKIP140("rskip140"),
+    RSKIP146("rskip146"),
     RSKIP152("rskip152");
 
     private String configKey;

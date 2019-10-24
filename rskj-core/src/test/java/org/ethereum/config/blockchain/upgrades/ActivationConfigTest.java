@@ -49,9 +49,9 @@ public class ActivationConfigTest {
             "    rskip97: orchid,",
             "    rskip98: orchid,",
             "    rskip103: orchid060,",
+            "    rskip106: wasabi100,",
             "    rskip110: wasabi100,",
             "    rskip119: wasabi100,",
-            "    rskip106: wasabi100,",
             "    rskip120: wasabi100,",
             "    rskip122: wasabi100,",
             "    rskip123: wasabi100,",
@@ -61,7 +61,8 @@ public class ActivationConfigTest {
             "    rskip132: wasabi100",
             "    rskip134: wasabiPlusOne",
             "    rskip136: bahamas",
-            "    rskip140: wasabiPlusOne",
+            "    rskip140: wasabiPlusOne,",
+            "    rskip146: wasabiPlusOne",
             "    rskip152: wasabiPlusOne",
             "}"
     ));
